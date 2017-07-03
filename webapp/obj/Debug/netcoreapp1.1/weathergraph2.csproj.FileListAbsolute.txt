@@ -1,0 +1,8 @@
+/media/Data/Documents/Geerten/Programmeren/weathergraph2/bin/Debug/netcoreapp1.1/weathergraph2.deps.json
+/media/Data/Documents/Geerten/Programmeren/weathergraph2/bin/Debug/netcoreapp1.1/weathergraph2.runtimeconfig.json
+/media/Data/Documents/Geerten/Programmeren/weathergraph2/bin/Debug/netcoreapp1.1/weathergraph2.runtimeconfig.dev.json
+/media/Data/Documents/Geerten/Programmeren/weathergraph2/bin/Debug/netcoreapp1.1/weathergraph2.dll
+/media/Data/Documents/Geerten/Programmeren/weathergraph2/bin/Debug/netcoreapp1.1/weathergraph2.pdb
+/media/Data/Documents/Geerten/Programmeren/weathergraph2/obj/Debug/netcoreapp1.1/weathergraph2.AssemblyInfo.cs
+/media/Data/Documents/Geerten/Programmeren/weathergraph2/obj/Debug/netcoreapp1.1/weathergraph2.dll
+/media/Data/Documents/Geerten/Programmeren/weathergraph2/obj/Debug/netcoreapp1.1/weathergraph2.pdb

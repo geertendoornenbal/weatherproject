@@ -1,0 +1,8 @@
+/media/Data/Documents/Geerten/Programmeren/weatherconsole/bin/Debug/netcoreapp1.1/weatherconsole.deps.json
+/media/Data/Documents/Geerten/Programmeren/weatherconsole/bin/Debug/netcoreapp1.1/weatherconsole.runtimeconfig.json
+/media/Data/Documents/Geerten/Programmeren/weatherconsole/bin/Debug/netcoreapp1.1/weatherconsole.runtimeconfig.dev.json
+/media/Data/Documents/Geerten/Programmeren/weatherconsole/bin/Debug/netcoreapp1.1/weatherconsole.dll
+/media/Data/Documents/Geerten/Programmeren/weatherconsole/bin/Debug/netcoreapp1.1/weatherconsole.pdb
+/media/Data/Documents/Geerten/Programmeren/weatherconsole/obj/Debug/netcoreapp1.1/weatherconsole.AssemblyInfo.cs
+/media/Data/Documents/Geerten/Programmeren/weatherconsole/obj/Debug/netcoreapp1.1/weatherconsole.dll
+/media/Data/Documents/Geerten/Programmeren/weatherconsole/obj/Debug/netcoreapp1.1/weatherconsole.pdb
