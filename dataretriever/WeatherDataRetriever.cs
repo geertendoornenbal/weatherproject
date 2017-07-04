@@ -8,10 +8,12 @@ using Newtonsoft.Json;
 public class WeatherDataRetriever
 {
   CancellationToken mCancellationToken;
+  string mOpenWeatherApiId;
 
-  public WeatherDataRetriever(CancellationToken aCancellationToken)
+  public WeatherDataRetriever(CancellationToken aCancellationToken, string aOpenWeatherApiID)
   {
     mCancellationToken = aCancellationToken;
+    mOpenWeatherApiId = aOpenWeatherApiID;
   }
 
   public void Run()
@@ -42,7 +44,7 @@ public class WeatherDataRetriever
     lClient.DefaultRequestHeaders.Accept.Clear();
     lClient.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
 
-    var lWeatherRequestTask = lClient.GetStringAsync("http://api.openweathermap.org/data/2.5/weather?q=Veenendaal,nl&APPID=b838213c4958556abf26f9561d8943d7&units=metric");
+    var lWeatherRequestTask = lClient.GetStringAsync("http://api.openweathermap.org/data/2.5/weather?q=Veenendaal,nl&APPID="+mOpenWeatherApiId+"&units=metric");
     
     var lResult = await lWeatherRequestTask;  
     return lResult;  
