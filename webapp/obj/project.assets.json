@@ -9581,16 +9581,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/Data/Documents/Geerten/Programmeren/weathergraph2/weathergraph2.csproj",
+      "projectUniqueName": "/media/Data/Documents/Geerten/Programmeren/weatherproject/webapp/weathergraph2.csproj",
       "projectName": "weathergraph2",
-      "projectPath": "/media/Data/Documents/Geerten/Programmeren/weathergraph2/weathergraph2.csproj",
-      "outputPath": "/media/Data/Documents/Geerten/Programmeren/weathergraph2/obj/",
+      "projectPath": "/media/Data/Documents/Geerten/Programmeren/weatherproject/webapp/weathergraph2.csproj",
+      "outputPath": "/media/Data/Documents/Geerten/Programmeren/weatherproject/webapp/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/weathergraph2.dll": "/media/Data/Documents/Geerten/Programmeren/weathergraph2/bin/placeholder/netcoreapp1.1/weathergraph2.dll"
+        "lib/netcoreapp1.1/weathergraph2.dll": "/media/Data/Documents/Geerten/Programmeren/weatherproject/webapp/bin/placeholder/netcoreapp1.1/weathergraph2.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {

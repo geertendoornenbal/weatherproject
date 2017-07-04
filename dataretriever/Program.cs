@@ -8,7 +8,6 @@ namespace weatherconsole
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Hello World!");
       CancellationToken lToken = new CancellationToken();
       WeatherDataRetriever lWeatherDataRetriever = new WeatherDataRetriever(lToken);
       lWeatherDataRetriever.Run();
